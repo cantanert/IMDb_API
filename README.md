@@ -1,5 +1,7 @@
 # IMDb API UI Presentations
 
+- You must change <API_KEY> with your own api key in base.js.
+
 ![alt text](https://i.pinimg.com/originals/c8/fa/04/c8fa046b0a3acc396dc33bf245e6fa77.png)
 
 ##### Demo is reachable on : https://cantanert.github.io/ 
